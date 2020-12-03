@@ -1,0 +1,48 @@
+! Title: Anti NHK
+! Expires: 1 day
+! Homepage: https://github.com/inkuringu-ika/Anti-NHK
+! License: https://github.com/inkuringu-ika/Anti-NHK/blob/main/LICENSE
+! GitHub issues: https://github.com/inkuringu-ika/Anti-NHK/issues
+! GitHub pull requests: https://github.com/inkuringu-ika/Anti-NHK/pulls
+
+||nhk.jp^
+||nhk.or.jp^
+||nhk-cul.co.jp^
+||nhk-sc.or.jp^
+||nhk-ep.co.jp^
+||nhk-book.co.jp^
+||nhk-ondemand.jp^
+||nhk-osakahall.jp^
+||nhkso.or.jp^
+||nhk-p.co.jp^
+! ||nhk-trophy2020.jp^
+||nhk-g.co.jp^
+||nhk-ed.co.jp^
+||nhk-tech.co.jp^
+||nhk-art.co.jp^
+||nhkint.or.jp^
+||nhkcosmomedia.com^
+||nhk-cm.co.uk^
+||nes.or.jp^
+||nhk-nbs.co.jp^
+||nhk-bc.co.jp^
+||nhk-cti.jp^
+||nhk.saiyo.jp^
+||nhknews.jp^
+! ||nhk-trophy2019.jp^
+||nhkworldpremium.com^
+||nhk-trophy*.jp^ #nhk-trophy2019.jp nhk-trophy2020.jp
+
+||758jigeki.com^
+||n-gaku.jp^
+||npwo.or.jp^
+||jibtv.com^
+
+||tver.jp/nhk^$all
+||play.google.com/store/apps/details?id=jp.or.nhk.news^$all
+||facebook.com/NHKonline^$all
+||youtube.com/user/NHKWorld^$all
+||youtube.com/user/NHKonline^$all
+||twitter.com/NHK_*^$all
+||twitter.com/nhk^$all
+||twitter.com/nhk_*^$all
