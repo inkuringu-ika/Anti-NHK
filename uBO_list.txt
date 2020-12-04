@@ -15,7 +15,6 @@
 ||nhk-osakahall.jp^
 ||nhkso.or.jp^
 ||nhk-p.co.jp^
-! ||nhk-trophy2020.jp^
 ||nhk-g.co.jp^
 ||nhk-ed.co.jp^
 ||nhk-tech.co.jp^
@@ -29,9 +28,20 @@
 ||nhk-cti.jp^
 ||nhk.saiyo.jp^
 ||nhknews.jp^
-! ||nhk-trophy2019.jp^
 ||nhkworldpremium.com^
-||nhk-trophy*.jp^ #nhk-trophy2019.jp nhk-trophy2020.jp
+! ||nhk-trophy2024.jp^
+! ||nhk-trophy2023.jp^
+! ||nhk-trophy2022.jp^
+! ||nhk-trophy2021.jp^
+! ||nhk-trophy2020.jp^
+! ||nhk-trophy2019.jp^
+! ||nhk-trophy2018.jp^
+! ||nhk-trophy2017.jp^
+! ||nhk-trophy2016.jp^
+! ||nhk-trophy2015.jp^
+! ||nhk-trophy2014.jp^
+||nhk-trophy*.jp^ #nhk-trophy2014.jp nhk-trophy2015.jp nhk-trophy2016.jp nhk-trophy2017.jp nhk-trophy2018.jp nhk-trophy2019.jp nhk-trophy2020.jp nhk-trophy2021.jp nhk-trophy2022.jp nhk-trophy2023.jp nhk-trophy2024.jp
+||nhk.or.jp.edgekey.net^
 
 ||758jigeki.com^
 ||n-gaku.jp^
