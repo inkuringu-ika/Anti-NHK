@@ -1,3 +1,6 @@
+# Anti NHK
+# https://github.com/inkuringu-ika/Anti-NHK
+
 0.0.0.0 nhk.jp
 0.0.0.0 nhk.or.jp
 0.0.0.0 api.nhk.or.jp
