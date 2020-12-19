@@ -1,5 +1,6 @@
 0.0.0.0 nhk.jp
 0.0.0.0 nhk.or.jp
+0.0.0.0 api.nhk.or.jp
 0.0.0.0 nhk-cul.co.jp
 0.0.0.0 nhk-sc.or.jp
 0.0.0.0 nhk-ep.co.jp
