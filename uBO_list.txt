@@ -51,6 +51,7 @@
 ||tver.jp/nhk^$all
 ||play.google.com/store/apps/details?id=jp.or.nhk.news^$all
 ||facebook.com/NHKonline^$all
+||facebook.com/nhkworld^$all
 ||youtube.com/user/NHKWorld^$all
 ||youtube.com/user/NHKonline^$all
 ||twitter.com/NHK_*^$all
