@@ -49,7 +49,10 @@
 ||jibtv.com^
 
 ||tver.jp/nhk^$all
-||play.google.com/store/apps/details?id=jp.or.nhk.news^$all
+! ||play.google.com/store/apps/details?id=jp.or.nhk.news^$all
+! ||play.google.com/store/apps/details?id=jp.or.nhk.school^$all
+! ||play.google.com/store/apps/details?id=jp.or.nhk.nhkworld.tv^$all
+||play.google.com/store/apps/details?id=jp.or.nhk.*^$all #play.google.com/store/apps/details?id=jp.or.nhk.news play.google.com/store/apps/details?id=jp.or.nhk.school play.google.com/store/apps/details?id=jp.or.nhk.nhkworld.tv
 ||facebook.com/NHKonline^$all
 ||facebook.com/nhkworld^$all
 ||youtube.com/user/NHKWorld^$all
