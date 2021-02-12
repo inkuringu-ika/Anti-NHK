@@ -53,19 +53,19 @@
 ! ||play.google.com/store/apps/details?id=jp.or.nhk.school^$all
 ! ||play.google.com/store/apps/details?id=jp.or.nhk.nhkworld.tv^$all
 ||play.google.com/store/apps/details?id=jp.or.nhk.*^$all #play.google.com/store/apps/details?id=jp.or.nhk.news play.google.com/store/apps/details?id=jp.or.nhk.school play.google.com/store/apps/details?id=jp.or.nhk.nhkworld.tv
-||apps.apple.com/*/developer/*/id307227304^$all
-||apps.apple.com/*/app/*/id350732480^$all
-||apps.apple.com/*/app/*/id1104138987^$all
-||apps.apple.com/*/app/*/id606706412^$all
-||apps.apple.com/*/app/*/id307227301^$all
-||apps.apple.com/*/app/*/id612898985^$all
-||apps.apple.com/*/app/*/id1212770151^$all
-||apps.apple.com/*/app/*/id1340678342^$all
-||apps.apple.com/*/app/*/id473937342^$all
-||apps.apple.com/*/app/*/id1121104608^$all
-||apps.apple.com/*/app/*/id1497264915^$all
-||apps.apple.com/*/app/*/id1039263781^$all
-||apps.apple.com/*/app/*/id1450218974^$all
+||apps.apple.com/*/id307227304^$all #https://apps.apple.com/jp/developer/nhk-japan-broadcasting-corporation/id307227304
+||apps.apple.com/*/id350732480^$all #https://apps.apple.com/jp/app/nhk-world-japan/id350732480
+||apps.apple.com/*/id1104138987^$all #https://apps.apple.com/jp/app/nhk-for-school/id1104138987
+||apps.apple.com/*/id606706412^$all #https://apps.apple.com/jp/app/nhk%E3%82%AA%E3%83%B3%E3%83%87%E3%83%9E%E3%83%B3%E3%83%89/id606706412
+||apps.apple.com/*/id307227301^$all #https://apps.apple.com/jp/app/nhk%E3%81%A8%E3%81%91%E3%81%84/id307227301
+||apps.apple.com/*/id612898985^$all #https://apps.apple.com/jp/app/nhk-%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%97box/id612898985
+||apps.apple.com/*/id1212770151^$all #https://apps.apple.com/jp/app/nhk-%E3%82%AA%E3%83%88%E3%83%83%E3%83%9A%E3%81%9A%E3%81%8B%E3%82%93/id1212770151
+||apps.apple.com/*/id1340678342^$all #https://apps.apple.com/jp/app/nhk-%E3%83%86%E3%83%AC%E3%83%93%E3%82%AF%E3%83%AB%E3%83%BC/id1340678342
+||apps.apple.com/*/id473937342^$all #https://apps.apple.com/jp/app/nhk%E3%83%A9%E3%82%B8%E3%82%AA-%E3%82%89%E3%81%98%E3%82%8B%E3%82%89%E3%81%98%E3%82%8B-%E3%83%A9%E3%82%B8%E3%82%AA%E9%85%8D%E4%BF%A1%E3%82%A2%E3%83%97%E3%83%AA/id473937342
+||apps.apple.com/*/id1121104608^$all #https://apps.apple.com/jp/app/nhk-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E9%98%B2%E7%81%BD/id1121104608
+||apps.apple.com/*/id1497264915^$all #https://apps.apple.com/jp/app/nhk%E3%83%97%E3%83%A9%E3%82%B9/id1497264915
+||apps.apple.com/*/id1039263781^$all #https://apps.apple.com/jp/app/nhk%E3%82%B4%E3%82%AC%E3%82%AF-%E8%AA%9E%E5%AD%A6%E8%AC%9B%E5%BA%A7/id1039263781
+||apps.apple.com/*/id1450218974^$all #https://apps.apple.com/jp/app/nhk-%E3%82%AD%E3%83%83%E3%82%BA/id1450218974
 ||facebook.com/NHKonline^$all
 ||facebook.com/nhkworld^$all
 ||youtube.com/user/NHKWorld^$all
