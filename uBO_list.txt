@@ -53,6 +53,19 @@
 ! ||play.google.com/store/apps/details?id=jp.or.nhk.school^$all
 ! ||play.google.com/store/apps/details?id=jp.or.nhk.nhkworld.tv^$all
 ||play.google.com/store/apps/details?id=jp.or.nhk.*^$all #play.google.com/store/apps/details?id=jp.or.nhk.news play.google.com/store/apps/details?id=jp.or.nhk.school play.google.com/store/apps/details?id=jp.or.nhk.nhkworld.tv
+||apps.apple.com/*/developer/*/id307227304^$all
+||apps.apple.com/*/app/*/id350732480^$all
+||apps.apple.com/*/app/*/id1104138987^$all
+||apps.apple.com/*/app/*/id606706412^$all
+||apps.apple.com/*/app/*/id307227301^$all
+||apps.apple.com/*/app/*/id612898985^$all
+||apps.apple.com/*/app/*/id1212770151^$all
+||apps.apple.com/*/app/*/id1340678342^$all
+||apps.apple.com/*/app/*/id473937342^$all
+||apps.apple.com/*/app/*/id1121104608^$all
+||apps.apple.com/*/app/*/id1497264915^$all
+||apps.apple.com/*/app/*/id1039263781^$all
+||apps.apple.com/*/app/*/id1450218974^$all
 ||facebook.com/NHKonline^$all
 ||facebook.com/nhkworld^$all
 ||youtube.com/user/NHKWorld^$all
